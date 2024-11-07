@@ -1,0 +1,136 @@
+body {
+		background-image: url("coralinebg2.jpg");
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background-position-y: -20px;
+	}
+
+	h1 {
+		background-color: black;
+		border-radius: 5px;
+		text-align: center;
+		color: white;
+		font-size: 30px;
+		margin-left: 10px;
+	    margin-right: 10px;
+	    margin-top: 10px;
+	    width: 650px;
+	    height: 50px;
+	    padding: 5px 1px;
+	    font-family: MedievalSharp;
+	    font-weight: 200;
+	}
+
+	.coraline {
+		margin-top: 10px;
+		margin-left: 10px;
+		margin-right: 10 px;
+		margin-bottom: 10px;
+		border-radius: 10px;
+		float: left;
+		border: 1px dashed;
+		border-color: whitesmoke;
+
+	}
+
+	.one {
+		background-color: black;
+	    margin-left: 10px;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	    margin-top: -81px;
+	    width: 650px;
+	    height: 441px;
+	    float: right;
+	    border-radius: 10px;
+	}
+
+	h2 {
+		background-color: darkslateblue;
+		border-radius: 5px;
+		font-size: 40px;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-top: 10px;
+		font-family: MedievalSharp;
+	    font-weight: 200;
+	}
+
+	p {
+		font-size: 20px;
+		color: white;
+		margin-left: 20px;
+		margin-right: 20px;
+		margin-top: -10px;
+		background-color: black;
+		font-family: Raleway;
+	}
+
+	ul {
+		color: white;
+		font-size: 20px;
+		font-family: Raleway;
+		margin-top: -10px;
+	}
+
+	.two {
+		background-color: black;
+		width: 320px;
+		height: 195px;
+		float: left;
+		border-radius: 10px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	ol {
+		color: white;
+		font-size: 20px;
+		font-family: Raleway;
+		margin-top: -10px;
+	}
+
+	.three {
+		background-color: black;
+		width: 320px;
+		height: 195px;
+		float: right;
+		border-radius: 10px;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-top: -195px;
+	}
+
+	#op {
+		float: left;
+		color: white;
+		margin-top: -190px;
+		margin-left: 380px;
+		font-size: 20px;
+		font-family: Raleway;
+	} 
+
+	input[type=text] {
+  		width: 95%;
+  		height: 50%;
+  		font-family: Raleway;
+  	}
+
+  	.coraline2 {
+  		width: 350px;
+  		height: 180px;
+  		margin-left: 10px;
+  		margin-top: -200px;
+  		margin-bottom: 20px;
+  		border-radius: 50%;
+  		filter: grayscale(70%);
+  		box-shadow: 2px 2px black;
+  		border: 1px solid whitesmoke;
+  	}
+
+  	select {
+  		margin-left: 10px;
+  		font-family: Raleway;
+  		width: 70%;
+  		height: 20%;
+  	}
